@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_otorelation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "mongoose": "^5.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "mongoose"
+  ],
+  "author": "RF",
+  "license": "ISC"
+}

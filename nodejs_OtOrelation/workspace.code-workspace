@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "..\\node-js-jwt-auth-mongodb"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
